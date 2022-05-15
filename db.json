@@ -1,0 +1,17 @@
+{
+    "comments": [
+    {
+        "title": "Comentários dos clientes",
+        "name": "João",
+        "comentario": "Lorem Ipsum"
+    },
+    {
+        "name": "Pedro",
+        "comentario": "Lorem Ipsum"
+    },
+    {
+        "name": "Agusto",
+        "comentario": "Lorem Ipsum"
+    }
+    ]
+}
